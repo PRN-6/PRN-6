@@ -62,4 +62,4 @@ Developer. Building simple, reliable software and exploring new ideas.
 - [Java_simple](https://github.com/PRN-6/Java_simple) — Simple Java programs.
 - [rally68](https://github.com/PRN-6/rally68) — React + Vite + Oxlint starter template.
 
-_Forks excluded._
+
