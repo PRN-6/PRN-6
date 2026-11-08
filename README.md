@@ -1,6 +1,6 @@
 ### Hi, I'm Prinson
 
-Developer. Building simple, reliable software and exploring new ideas.
+Just a Developer. Building simple, reliable software and exploring new ideas.
 
 <br/>
 
