@@ -22,7 +22,6 @@ Developer. Building simple, reliable software and exploring new ideas.
 
 ### 🌐 Web & 3D
 - [swarm66](https://github.com/PRN-6/swarm66) — Autonomous AI cursor swarm that reverse-engineers any webpage and constructs the UI in real time using Reynolds Boids flocking physics. Zero dependencies.
-- [swarm68](https://github.com/PRN-6/swarm68) — Collaborative website construction animation engine simulating cursor agents building pages live.
 - [harry-potter-3D-website](https://github.com/PRN-6/harry-potter-3D-website) — Harry Potter themed college festival site with a procedural 3D Great Hall (React, R3F, Three.js, Tailwind v4).
 - [3D-website](https://github.com/PRN-6/3D-website) — Full-stack 3D website (React frontend, Node.js backend, Three.js).
 - [exploring-three.js](https://github.com/PRN-6/exploring-three.js) — A starter Three.js project for learning 3D graphics in the browser.
